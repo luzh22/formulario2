@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/style.css">
+<script src="js/formulario.js"></script>
+  <title>formulario </title>
+</head>
+<body>
+<article>
+  <header>
+    <h1> FORMULARIO </h1>
+    <p class="extra">Por favor completa el siguiente formulario para registrarte📝 </p>
+  </header>
+<!-- ...datos... -->
+  <form id="formEvento">
+   <fieldset>
+  <legend>Datos personales </legend>
+  <label for="nombre">Nombres:</label>
+  <input type="text" id="nombre" name="nombre" required placeholder="Tu nombre"/>
+
+<label for="Apellidos">Apellidos:</label>
+  <input type="text" id="Apellidos" name="Apellidos" required placeholder="Tus Apellidos" />
+
+<label for="gmail">Correo Gmail:</label>
+<input type="email" id="gmail" name="gmail" required>
+<span id="gmail_error" style="color:red; display:none;"></span>
+
+<label for="confirm_gmail">Confirmar correo Gmail:</label>
+<input type="email" id="confirm_gmail" name="confirm_gmail" required>
+<span id="confirm_gmail_error" style="color:red; display:none;"></span>
+
+  <label for="password">Contraseña:</label>
+<input type="password" id="password" name="password" required>
+<span id="password_error" style="color:red; display:none;"></span>
+
+<label for="confirm_password">Confirmar contraseña:</label>
+<input type="password" id="confirm_password" name="confirm_password" required>
+<span id="confirm_password_error" style="color:red; display:none;"></span>
+
+<label for="telefono">Teléfono:</label>
+<input type="tel" id="telefono" name="telefono" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="300-123-4567" required>
+
+<label for="fecha_nacimiento">Fecha de nacimiento:</label>
+<input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required>
+
+<span id="edad_error" style="color:red; display:none;">
+  Debes ser mayor de 18 años.
+</span>
+
+  <label for="pais">País:</label>
+  <input list="paises" name="pais" id="pais" />
+
+  <datalist id="paises">
+    <option value="Colombia">
+    <option value="México">
+    <option value="Argentina">
+    <option value="España">
+  </datalist>
+
+  <label for="edad">Edad:</label>
+  <input type="number" id="edad" name="edad" required placeholder="Tu edad" min="1" max="120" />
+</fieldset>
+    <fieldset>
+      <legend>experiencia en programacion 
+</legend>
+      <label for="tema">experiencia:</label>
+      <select name="tema" id="tema" required>
+        
+          <option value="principiante">principiante</option>
+          <option value="intermedio">intermedio</option>
+          <option value="avanzado">avanzado</option>
+      </select>
+      <label for="comentarios">comentarios adicionales </label>
+      <textarea id="comentarios" name="comentarios" rows="4">
+      </textarea>
+    </fieldset>
+    <!-- ...terminos y condiciones ... -->
+<details>
+  <summary>📄 Ver términos y condiciones</summary>
+  <ul>
+    <li>Al registrarte, aceptas recibir notificaciones sobre el evento.</li>
+    <li>Tus datos están protegidos bajo la ley de protección de datos personales.</li>
+    <li>Puedes solicitar la eliminación de tus datos en cualquier momento.</li>
+  </ul>
+</details>
+<div>
+  <input type="checkbox" id="acepto" name="acepto" required>
+  <label for="acepto">Acepto los términos y condiciones</label>
+</div>
+    <!-- ...código existente... -->
+<fieldset>
+  <legend>Progreso de inscripción </legend>
+  <p>Estado actual del formulario:</p>
+  <progress id="barraProgreso" value="0" max="100"></progress>
+</fieldset>
+<!-- ...boton de enviar formulario... -->
+<button id="enviarRegistro" type="submit" disabled>Enviar formulario</button>
+<div id="resultado" style="display:none; margin-top:20px;"></div>
+</form>
+</article>
+</body>
+</html>

@@ -1,0 +1,52 @@
+body {
+      font-family: sans-serif;
+      background-color: rgba(255, 255, 255, 0.788);
+      margin: 0;
+      padding: 20px;
+    }
+    form {
+      background: #c4d2ff;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(23, 5, 56, 0.1);
+    }
+    fieldset {
+      border: 2px solid #0873ee88;
+      margin-bottom: 20px;
+      padding: 15px;
+    }
+    legend {
+      font-weight: bold;
+      color: #5196f0;
+    }
+    label, input, select, datalist, textarea {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .extra {
+      font-size: 0.9em;
+      color: #0099ff;
+    }
+    output {
+      display: inline-block;
+      margin-top: 10px;
+      color: rgb(231, 22, 22);
+    }
+    progress {
+      width: 100%;
+      margin-top: 10px;
+    }
+    figure {
+      margin: 20px auto;
+      text-align: center;
+    }
+    figcaption {
+      font-style: italic;
+      font-size: 0.9em;
+    }
+    header {
+  text-align: center;
+}
