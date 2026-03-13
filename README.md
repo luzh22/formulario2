@@ -4,6 +4,7 @@ https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sha
 Este proyecto es un formulario web de registro que incluye una barra de progreso interactiva. La barra muestra el avance a medida que el usuario completa los campos requeridos.
 
 ## Características
+https://drive.google.com/drive/folders/1HdNgaNbjp5tQgKVk9Lsr8BC3WFp9lvP_?usp=drive_link
 
 - Formulario con validación de campos obligatorios.
 - Barra de progreso que se actualiza automáticamente.
