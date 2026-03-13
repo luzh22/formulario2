@@ -14,6 +14,7 @@ https://dev.ambientesfz-qa.com.co/promotec.atenea.qa/
 <img width="309" height="228" alt="image" src="https://github.com/user-attachments/assets/f84240cc-6917-4ed5-9f96-dbc4ba89289a" />
 
 - Formulario con validación de campos obligatorios.
+- https://docs.google.com/spreadsheets/d/14V5tsyH17GWUtaam9ERGHhf1Ocu4Hw4KwlnaUug2AeE/edit?pli=1&gid=992123048#gid=992123048
 - Barra de progreso que se actualiza automáticamente.
 - Confirmación visual de envío exitoso.
 - Protección de datos personales según la ley.
