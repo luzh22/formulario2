@@ -20,6 +20,7 @@ https://dev.ambientesfz-qa.com.co/promotec.atenea.qa/
 - Protección de datos personales según la ley.
 
 ## Estructura del proyecto
+https://drive.google.com/drive/folders/19UgetWJuQb5pcgR0WgwEwA7IMwkDyMLe?usp=drive_link
 
 ```
 formulario2/
@@ -32,6 +33,7 @@ formulario2/
 ```
 
 ## Uso
+https://www.udemy.com/topic/http/
 
 1. Clona o descarga este repositorio.
 2. Abre `index.html` en tu navegador.
