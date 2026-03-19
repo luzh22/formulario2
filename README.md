@@ -20,7 +20,7 @@ https://dev.ambientesfz-qa.com.co/promotec.atenea.qa/
 - Protección de datos personales según la ley.
 
 ## Estructura del proyecto
-https://drive.google.com/drive/folders/19UgetWJuQb5pcgR0WgwEwA7IMwkDyMLe?usp=drive_link
+https://drive.google.com/drive/folders/1Yz7zeL1DYPO-ROaZqUbM-3YORpWig78R?usp=sharing
 
 ```
 formulario2/
