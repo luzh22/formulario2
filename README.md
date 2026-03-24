@@ -1,5 +1,7 @@
 https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sharing
 # Formulario de Registro con Barra de Progreso
+<img width="1879" height="964" alt="image" src="https://github.com/user-attachments/assets/6da292ad-c88c-4b8a-bfb8-ab1d82f90e8d" />
+
 
 Este proyecto es un formulario web de registro que incluye una barra de progreso interactiva. La barra muestra el avance a medida que el usuario completa los campos requeridos.
 
