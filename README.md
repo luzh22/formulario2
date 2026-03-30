@@ -1,4 +1,5 @@
-´´´Asunto: Reporte de novedad logística y solicitud de cambio a modalidad virtual
+´´´
+Asunto: Reporte de novedad logística y solicitud de cambio a modalidad virtual
 
 Cordial saludo,
 
@@ -20,7 +21,8 @@ Atentamente,
 
 luz stefanny herrera rodriguez  
 cedula:1023893550
-Sede actual: Restrepo´´´
+Sede actual: Restrepo
+´´´
 
 https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sharing
 # Formulario de Registro con Barra de Progreso
