@@ -1,28 +1,5 @@
-´´
-Asunto: Reporte de novedad logística y solicitud de cambio a modalidad virtual
+<img width="1267" height="837" alt="image" src="https://github.com/user-attachments/assets/649d8194-6d23-4d39-991a-6b601312b2fa" />
 
-Cordial saludo,
-
-Me pongo en contacto con ustedes para exponer una situación que está afectando directamente mi rendimiento y avance en el programa de inglés. Mi intención es cumplir con la intensidad horaria exigida, pero actualmente presento un bloqueo logístico y técnico que me lo impide.
-
-Detalle del inconveniente:
-Debido a mis responsabilidades laborales de lunes a viernes, mi única ventana de tiempo para asistir de forma presencial es el día sábado en la Sede Restrepo. El sistema de reservas abre los miércoles (72 horas antes), pero en mi lugar de trabajo existen estrictas políticas de seguridad informática que incluyen el bloqueo de navegación en sitios externos y la restricción total de dispositivos móviles.
-
-Esto genera un desfase crítico: cuando termino mi jornada y logro llegar a mi hogar para acceder a la plataforma, los cupos presenciales para el sábado en la sede Restrepo ya se encuentran agotados debido a la alta demanda.
-
-Solicitud de cambio de modalidad:
-Para solucionar este inconveniente y asegurar la continuidad de mi proceso, solicito formalmente el traslado a la modalidad virtual.
-
-Mi justificación para este cambio es que la modalidad virtual facilita significativamente el proceso de reserva en mi caso particular. Al no estar limitado a la capacidad física de una sola sede, puedo realizar mis reservas en el horario nocturno una vez llego a mi casa, garantizando así mi asistencia y el cumplimiento de las 5 clases obligatorias semanales que actualmente no puedo alcanzar por la falta de cupos presenciales al final del día.
-
-Agradezco su comprensión y quedo a la espera de las instrucciones necesarias para formalizar este cambio de modalidad lo antes posible.
-
-Atentamente,
-
-luz stefanny herrera rodriguez  
-cedula:1023893550
-Sede actual: Restrepo
-´´
 
 https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sharing
 # Formulario de Registro con Barra de Progreso
