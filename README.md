@@ -1,4 +1,4 @@
-<img width="1267" height="837" alt="image" src="https://github.com/user-attachments/assets/649d8194-6d23-4d39-991a-6b601312b2fa" />
+
 
 
 https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sharing
