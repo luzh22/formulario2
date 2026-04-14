@@ -1,6 +1,9 @@
 
 
 
+
+
+
 https://drive.google.com/drive/folders/1xbpvDVYCl1epnmuEG-ALRZA2DxkbVfbJ?usp=sharing
 # Formulario de Registro con Barra de Progreso
 <img width="1915" height="793" alt="image" src="https://github.com/user-attachments/assets/89cadedc-b458-4aa9-b417-fa980fa83035" />
